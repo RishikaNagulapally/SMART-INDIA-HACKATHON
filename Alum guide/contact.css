@@ -1,0 +1,395 @@
+*{
+    border: border-box;
+    margin: 0;
+    font-family: arial;
+  }
+  
+  .navbar{
+      height: 70px;
+      width: 100%;
+      background-color: black;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+  }
+  
+  ul{
+      display: flex;
+      font-style: none;
+      list-style: none;
+      margin: 10px 20px;
+  }
+  
+  .home{
+      color: red;
+      font-size: 1rem;
+      font-weight: 600;
+      font-style: none;
+  }
+  
+  .a2{
+      color: white;
+      font-size: 1rem;
+      font-weight: 600;
+      font-style: none;
+  }
+  
+  .element2{
+      margin-right: 2.5rem;
+  }
+  
+  li a{
+      text-decoration: none;
+   
+  } 
+  
+  .element1{
+      height: 70px;
+      width: 150px;
+    }
+
+ body{
+    background-image: url(logbck.jpg);
+    width: 100%;
+    height: 40rem;
+    background-size: cover;
+ }
+
+ .login{
+    height: 20rem;
+    width: 40rem;
+    margin-left: 20rem;
+    border: solid 0.2rem white;
+    margin-top: 8rem;
+    
+ }
+
+ 
+.border{
+    border: 1.4px solid transparent;
+}
+
+.border:hover{
+    border: 5px solid white;
+}
+
+.lo{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    font-size: 2rem;
+    font-weight: 600;
+    color: white;
+    margin-right: 0.8rem;
+}
+
+.email{
+    height: 2rem;
+    width: 20rem;
+    margin-left: 13rem;
+    margin-top: 2rem;
+    display: flex;
+}
+
+.em{
+    font-size: 1rem;
+    font-weight: 200;
+    text-align: left;
+    align-items: center;
+    justify-content: center;
+    color: black;
+}
+
+.emm{
+    margin-left: 0.2rem;
+    font-size: 1.8rem;
+    color: black;
+}
+
+.emmm{
+    margin-left: 0.1rem;
+    font-size: 1.8rem;
+    color: black;
+}
+
+.login1{
+    margin-top: 2.5rem;
+    margin-left: 18rem;
+    
+}
+
+.name{
+    font-family:"matemasie";
+    color: white;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 20px;
+    font-size: 1.3rem;
+    font-style: none;
+    text-decoration: none;
+  }
+
+  .f{
+     color: red;
+     justify-content: center;
+     text-align: center;
+     align-items: center;
+  }
+
+
+  footer{
+    height: 15rem;
+    width: 100%;
+    background-color:#C3C1C0;
+    margin-top: 0rem;
+    justify-content: space-evenly;
+    align-items: baseline;
+  }
+  
+  .quries{
+    margin-left: 1rem;
+    margin-top: 3rem;
+  
+  }
+  
+  .ph{
+    font-size: 2rem;
+  
+  }
+  
+  .mail{
+   margin-top: 3rem;
+   font-size: 2rem;
+  
+  }
+  
+  .emoji{
+    display: flex;
+  }
+  
+  .ma{
+    margin-left: 25rem;
+  }
+  
+  .ph{
+     margin-left: 23rem;
+  }
+  
+  .phn{
+    margin-left: 22rem;
+    margin-top: 1rem;
+  }
+  
+  .phone{
+    display: flex;
+  }
+  
+  .mai{
+    margin-top: 1rem;
+    margin-left: 18rem;
+  }
+  
+
+  *{
+    border: border-box;
+    margin: 0;
+    font-family: arial;
+  }
+  
+  .navbar{
+      height: 70px;
+      width: 100%;
+      background-color: black;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+  }
+  
+  ul{
+      display: flex;
+      font-style: none;
+      list-style: none;
+      margin: 10px 20px;
+  }
+  
+  .contact{
+      color: red;
+      font-size: 1rem;
+      font-weight: 600;
+      font-style: none;
+  }
+  
+  .a2{
+      color: white;
+      font-size: 1rem;
+      font-weight: 600;
+      font-style: none;
+  }
+  
+  .element2{
+      margin-right: 2.5rem;
+  }
+  
+  li a{
+      text-decoration: none;
+   
+  }
+  
+  .socials{
+    margin-top: 8rem;
+    display: flex;
+    color: black;
+    justify-content: space-around;
+  
+  }
+
+  .insta{
+    font-weight: 800;
+    font-size: 2rem;
+    font-style: none;
+    margin-left: 0rem;
+    color: black;
+    
+  }
+
+  .twitter{
+    font-weight: 800;
+    font-size: 2rem;
+    font-style: none;
+    color: black;
+    margin-left: 5rem;
+  }
+
+a{
+    color: black;
+}
+
+.facebook{
+    font-weight: 800;
+    font-size: 2rem;
+    font-style: none;
+    color: black;
+    margin-left: 5rem;
+}
+
+.linkedin{
+    font-weight: 800;
+    font-size: 2rem;
+    font-style: none;
+    color: black;
+    margin-left: 5rem;
+}
+
+.socialsname{
+    margin-top: 2rem;
+    display: flex;
+    color: black;
+    justify-content: space-around;
+}
+
+.contact2{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-weight: 700;
+    font-size: 2rem;
+    margin-top: 4rem;
+}
+
+.instag1{
+    font-weight: 400;
+    font-size: 1.7rem;
+    font-style: none;
+    color: black;
+  }
+
+  .sideline{
+    font-size: 1.2rem;
+    font-weight: 400;
+    margin-top: 0.8rem;
+  }
+
+  .element1{
+    height: 70px;
+    width: 150px;
+  }
+
+  .instag2{
+    font-weight: 400;
+    font-size: 1.7rem;
+    font-style: none;
+    color: black;
+    margin-right: 3rem;
+  }
+
+  .instag3{
+    font-weight: 400;
+    font-size: 1.7rem;
+    font-style: none;
+    color: black;
+    margin-right: 3rem;
+  }
+
+  .instag4{
+    font-weight: 400;
+    font-size: 1.7rem;
+    font-style: none;
+    color: black;
+  }
+
+  .quries{
+    margin-top: 10rem;
+
+  }
+
+footer{
+  height: 15rem;
+  width: 100%;
+  background-color:#C3C1C0;
+  margin-top: 10rem;
+  justify-content: space-evenly;
+}
+
+.quries{
+  margin-left: 1rem;
+  margin-top: 3rem;
+ 
+}
+
+.ph{
+  font-size: 2rem;
+
+}
+
+.mail{
+ margin-top: 3rem;
+ font-size: 2rem;
+
+}
+
+.emoji{
+  display: flex;
+}
+
+.ma{
+  margin-left: 25rem;
+}
+
+.ph{
+   margin-left: 23rem;
+}
+
+.phn{
+  margin-left: 22rem;
+  margin-top: 1rem;
+}
+
+.phone{
+  display: flex;
+}
+
+.mai{
+  margin-top: 1rem;
+  margin-left: 18rem;
+}

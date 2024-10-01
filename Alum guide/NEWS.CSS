@@ -1,0 +1,214 @@
+*{
+    border: border-box;
+    margin: 0;
+    font-family: arial;
+    background-color: black;
+  }
+
+  .navbar{
+    height: 70px;
+    width: 100%;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.name{
+    font-family:"matemasie";
+    color: white;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 20px;
+    font-size: 1.3rem;
+    font-style: none;
+    text-decoration: none;
+  }
+
+  .df{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    text-align: left;
+  }
+
+  .center{
+    height:15rem;
+    width: 15rem;
+    background-image: url(bi.jpg);
+    margin-left: 1rem;
+    margin-top: 3rem;
+    background-size: cover;
+
+}
+
+.postext{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-weight: 600;
+}
+
+.center1{
+    height:15rem;
+    width: 15rem;
+    background-image: url(nasscom.jpg);
+    margin-left: 1rem;
+    margin-top: 3rem;
+    background-size: cover;
+
+}
+
+.postext1{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-weight: 600;
+}
+
+.te{
+    font-size: 3rem;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-weight: 600;
+    margin-top: 3rem;
+    font-family: "Protest Guerrilla", sans-serif;
+    font-weight: 400;
+    font-style: normal; 
+    color: red;
+}
+
+.link{
+    text-decoration: none;
+    font-size: 1rem;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-weight: 600;
+    margin-top: 3rem;
+    font-family: "Protest Guerrilla", sans-serif;
+    font-weight: 400;
+    font-style: normal; 
+    color: white;
+}
+
+.center2{
+    height:15rem;
+    width: 15rem;
+    background-image: url(ndtv.jpg);
+    margin-left: 1rem;
+    margin-top: 3rem;
+    background-size: cover;
+
+}
+
+.postext2{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-weight: 600;
+}
+
+.center3{
+    height:15rem;
+    width: 15rem;
+    background-image: url(S.jpg);
+    margin-left: 1rem;
+    margin-top: 3rem;
+    background-size: cover;
+
+}
+
+.center4{
+    height:15rem;
+    width: 15rem;
+    background-image: url(FLEX.jpg);
+    margin-left: 1rem;
+    margin-top: 3rem;
+    background-size: cover;
+
+}
+
+.center5{
+    height:15rem;
+    width: 15rem;
+    background-image: url(GOOGLE.jpg);
+    margin-left: 1rem;
+    margin-top: 3rem;
+    background-size: cover;
+
+}
+
+.postext3{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-weight: 600;
+}
+
+.postext4{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-weight: 600;
+}
+
+.postext5{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-weight: 600;
+}
+
+.center6{
+    height:15rem;
+    width: 15rem;
+    background-image: url(BUILT.jpg);
+    margin-left: 1rem;
+    margin-top: 3rem;
+    background-size: cover;
+
+}
+
+.center7{
+    height:15rem;
+    width: 15rem;
+    background-image: url(STAME.jpg);
+    margin-left: 1rem;
+    margin-top: 3rem;
+    background-size: cover;
+
+}
+
+.center8{
+    height:15rem;
+    width: 15rem;
+    background-image: url(TECHNATION.jpg);
+    margin-left: 1rem;
+    margin-top: 3rem;
+    background-size: cover;
+
+}
+
+.postext6{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-weight: 600;
+}
+
+.postext7{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-weight: 600;
+}
+
+.postext8{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-weight: 600;
+}

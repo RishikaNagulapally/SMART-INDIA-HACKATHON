@@ -1,0 +1,43 @@
+*{
+    border: border-box;
+    margin: 0;
+    font-family: arial;
+    background-color: black;
+    color: white;
+  }
+  
+  .navbar{
+      height: 70px;
+      width: 100%;
+      background-color: black;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+  }
+  
+  .name{
+    font-family:"matemasie";
+    color: white;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 20px;
+    font-size: 1.3rem;
+    font-style: none;
+    text-decoration: none;
+  }
+
+  .SET1{
+    height: 5rem;
+    width: 100%;
+    margin-right: 71rem;
+    margin-top: 20rem;
+  }
+
+  .about{
+    margin-top: 3rem;
+  }
+
+  .a{
+    text-decoration: none;
+  }
